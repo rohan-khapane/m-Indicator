@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login_page"
+    android:orientation="vertical"
+    >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/splash_screen_logo"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:id="@+id/login_page_img"
+        >
+
+    </ImageView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/txt_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/sign_in"
+        android:textColor="#FF7043"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        style="@style/login_page"
+        android:textAlignment="center"
+        />
+<!--        android:layout_marginTop="20dp"-->
+
+    <EditText
+        android:id="@+id/ed_username_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="@string/username"
+        android:layout_marginTop="15dp"
+        style="@style/login_page"
+
+        />
+    <EditText
+        android:id="@+id/ed_password_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:hint="@string/password"
+        style="@style/login_page"
+        />
+    <TextView
+        android:id="@+id/forgot_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="200sp"
+        android:layout_marginTop="8dp"
+        android:text="@string/forgot_password"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/submit_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/login"
+        android:textSize="25sp"
+        android:layout_marginTop="20dp"
+        style="@style/login_page"
+        android:background="@drawable/custom_btn_report"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:gravity="end"
+            android:text="@string/do_not_account"
+        >
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:id="@+id/txt_vw_register_here"
+            android:text="@string/registered_here"
+
+            >
+
+        </TextView>
+
+    </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

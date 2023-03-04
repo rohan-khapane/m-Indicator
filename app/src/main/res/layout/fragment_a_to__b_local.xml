@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".A_to_B_fragment_local"
+    android:orientation="vertical"
+    android:background="@color/background"
+
+
+
+    >
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lv_a_to_b"
+            android:visibility="gone"
+            >
+
+
+        </ListView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/select_a_station"
+            >
+
+        </TextView>
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner_a_to_b"
+            android:autofillHints="Source"
+
+            android:background="@color/white">
+
+        </Spinner>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/select_a_destination"
+            >
+
+        </TextView>
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner_a_to_b2"
+            android:autofillHints="Destination"
+            android:background="@color/white"
+            >
+
+        </Spinner>
+    </LinearLayout>
+    </LinearLayout>
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/a_to_b_search_btn"
+    android:text="@string/a_to_b_search_btn"
+    android:layout_gravity="center"
+    android:background="@color/colorPrimaryDark"
+    android:textColor="@color/white"
+    android:textStyle="bold"
+    android:textSize="20sp"
+
+
+    >
+
+</Button>
+    </LinearLayout>

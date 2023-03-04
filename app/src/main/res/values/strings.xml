@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">m-Indicator</string>
+    <string name="txt_vw_splash">m-Indicator</string>
+    <string name="menu_Alert">Alert</string>
+    <string name="menu_News">News</string>
+    <string name="btn_all_stations">All stations</string>
+    <string name="btn_western">Western</string>
+    <string name="btn_central">Central</string>
+    <string name="btn_harbour">Harbour</string>
+    <string name="a_to_b_search_btn">Search</string>
+    <string name="find_fare">Calculate Fare</string>
+    <string name="rp_penalty">PENALTY</string>
+
+    <string name="rp_137_1">Travelling Fraudulently</string>
+    <string name="rp_137_3">6 months jail,fine Rs 1000/- or both.</string>
+    <string name="rp_137_4">Sec. 137 Railway Act</string>
+
+    <string name="rp_138_1">Travelling without proper pass/ticket</string>
+    <string name="rp_138_2">Ticket fare + excess charge i.e 250/- or equivalent to the fare whichever is more</string>
+    <string name="rp_138_3">Ordinary single fare for the distance which he has travelled or from the station from which the train started and the excess charge i.e 250/- or equivalent to the fare whichever is more.</string>
+    <string name="rp_138_4">Sec. 138 Railway Act</string>
+
+    <string name="rp_141_1">Alarm Chain Pulling</string>
+    <string name="rp_141_2">12 months jail,fine Rs 1000/- or both.</string>
+    <string name="rp_141_3">Sec. 141 Railway Act</string>
+
+    <string name="rp_143_1">Touting</string>
+    <string name="rp_143_2">3 years jail, fine Rs 10,000/- or both.</string>
+    <string name="rp_143_3">Sec. 143 Railway Act</string>
+
+    <string name="rp_144_1">Unauthorised Hawking</string>
+    <string name="rp_144_2">One year jail,fine min. Rs 1,000/- to max. Rs 2,000/- or both.</string>
+    <string name="rp_144_3">Sec. 144 Railway Act</string>
+
+    <string name="rp_145_1">Nuisance and Littering</string>
+    <string name="rp_145_2">1st offence Rs 100 fine, 2nd &amp; subsequent Rs 250, one month imprisonment.</string>
+    <string name="rp_145_3">Sec. 145(b) Railway Act</string>
+
+    <string name="rp_147_1">Trespassing</string>
+    <string name="rp_147_2">6 months jail,fine Rs 1000/- or both.</string>
+    <string name="rp_147_3">Sec. 147 Railway Act</string>
+
+    <string name="rp_155_1">Travelling in Coach Reserved for Handicapped Passengers</string>
+    <string name="rp_155_2">3 months jail,fine Rs 500/- or both.</string>
+    <string name="rp_155_3">Sec 155(a) Railway Act</string>
+
+    <string name="rp_156_1">Travelling on Roof Top</string>
+    <string name="rp_156_2">3 months jail,fine Rs 500/- or both.</string>
+    <string name="rp_156_3">Sec. 156 Railway Act</string>
+
+    <string name="rp_162_1">Travelling in Coach Reserved for Ladies Passengers</string>
+    <string name="rp_162_2">Fine up to Rs 500,ticket will be forfeited and passenger to be removed from the compartment.</string>
+    <string name="rp_162_3">If any male passenger is detected travelling in coaches reserved exclusively for ladies.</string>
+    <string name="rp_162_4">Section 162</string>
+
+
+    <string name="rp_164_1">Dangerous Explosive Goods</string>
+    <string name="rp_164_2">Imprisonment up to 3 years or fine up to Rs. 1000/- or both.</string>
+    <string name="rp_164_3">If any person takes with him dangerous or explosive goods into rail premises without prior permission</string>
+    <string name="rp_164_4">Section 164</string>
+
+
+    <string name="rp_166_1">Bill Pasting</string>
+    <string name="rp_166_2">6 months jail,fine Rs 500/- or both.</string>
+    <string name="rp_166_3">Sec. 166(b) Railway Act</string>
+
+    <string name="navi_more_option">MORE OPTIONS</string>
+    <string name="navi_advertise">Advertise With Us</string>
+    <string name="navi_rate_app">Rate App</string>
+    <string name="navi_update_app">Update App</string>
+    <string name="navi_about_app">About App</string>
+    <string name="navi_app_features">App Features</string>
+    <string name="navi_suggest_features">Suggest a Feature</string>
+    <string name="navi_report_issue">Report an Issue</string>
+    <string name="guides">GUIDES</string>
+    <string name="navi_explore_mumbai">Explore Mumbai</string>
+    <string name="navi_travel_hacks">Travel Hacks</string>
+
+
+    <string name="signup">Signup</string>
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+
+    <string name="report_issue_txt">Thank you for taking your valuable time and giving your feedback. Please share your feedback in the below form..</string>
+    <string name="report_issue_first_name">Your First Name</string>
+    <string name="report_issue_last_name">Your Last Name></string>
+    <string name="report_issue_email">Your Email</string>
+    <string name="submit">Submit</string>
+
+
+    <!--     TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_here">Login Here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forget_password</string>
+    <string name="do_not_account">Not registered yet</string>
+    <string name="registered_here">Register Here</string>
+    <string name="registered">Register</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="have_an_account">Already registered</string>
+    <string name="conform_password">Conform Password</string>
+
+
+</resources>

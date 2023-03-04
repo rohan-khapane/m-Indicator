@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        >
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:titleTextColor="@color/white"
+            app:title="@string/app_name"
+            >
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+<!--    <include layout="@layout/activity_home_content">-->
+<!--    </include>-->
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+
+        <GridView
+
+            android:id="@+id/home_grid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#454545"
+            android:numColumns="2">
+
+
+        </GridView>
+        <!--    android:layout_below="@id/appbar"-->
+
+        <ListView
+            android:id="@+id/home_lv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <!--                android:layout_below="@id/home_grid"-->
+
+
+
+        </ListView>
+
+    </LinearLayout>
+
+</LinearLayout>

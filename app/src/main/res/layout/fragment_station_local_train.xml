@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".station_fragment_local_train"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@color/colorPrimaryDark"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_all_stations"
+            android:id="@+id/btn_all_stations"
+            android:padding="4dp"
+            android:layout_margin="2dp"
+            android:background="@color/purple_700"
+            android:textColor="@color/white"
+            >
+
+        </Button>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_western"
+            android:id="@+id/btn_western"
+            android:padding="4dp"
+            android:layout_margin="2dp"
+            android:background="@color/purple_700"
+            android:textColor="@color/white"
+            >
+
+        </Button>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_central"
+            android:id="@+id/btn_central"
+            android:padding="4dp"
+            android:layout_margin="2dp"
+            android:background="@color/purple_700"
+            android:textColor="@color/white"
+            />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_harbour"
+            android:id="@+id/btn_harbour"
+            android:padding="4dp"
+            android:layout_margin="2dp"
+            android:background="@color/purple_700"
+            android:textColor="@color/white"
+            >
+
+        </Button>
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_local_train"
+
+
+
+        >
+
+
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".splash_screen"
+    android:orientation="vertical"
+    android:id="@+id/ll_splash"
+    android:gravity="center"
+
+
+    tools:ignore="UseCompoundDrawables">
+
+
+    <ImageView
+        android:id="@+id/imgvw_splash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:contentDescription="TODO"
+
+
+
+        app:srcCompat="@drawable/logo_png" />
+
+    <TextView
+        android:id="@+id/txtvw_splash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_vw_splash"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="60sp"
+        android:layout_gravity="center"
+
+
+        android:textStyle="bold" />
+
+
+</LinearLayout>
+

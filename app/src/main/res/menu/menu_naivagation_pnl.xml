@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <group
+
+        >
+        <item android:title="@string/guides"
+            android:id="@+id/navi_guide"
+
+            >
+            <menu>
+                <item android:title="@string/navi_explore_mumbai"
+                    android:icon="@drawable/ic_baseline_travel_explore_24"
+                    android:id="@+id/navi_explore_mumbai"
+                    >
+                </item>
+                <item android:title="@string/navi_travel_hacks"
+                    android:id="@+id/navi_travel_hacks"
+                    android:icon="@drawable/travel_hack"
+                    >
+                </item>
+            </menu>
+        </item>
+    </group>
+    <group >
+        <item android:title="@string/navi_about_app"
+            android:id="@+id/navi_about"
+            >
+            <menu>
+                <item
+                    android:title="@string/navi_app_features"
+                    android:icon="@drawable/app_features"
+                    android:id="@+id/navi_features"
+
+                    >
+                </item>
+                <item
+                    android:title="@string/navi_suggest_features"
+                    android:icon="@drawable/suggest_features"
+                    android:id="@+id/navi_suggest_feature"
+                    >
+                </item>
+                <item
+                    android:title="@string/navi_report_issue"
+                    android:icon="@drawable/navi_report_issue"
+                    android:id="@+id/navi_report_issue"
+                    >
+                </item>
+            </menu>
+
+        </item>
+    </group>
+    <group>
+        <item android:title="@string/navi_more_option"
+            android:id="@+id/navi_more"
+            >
+            <menu>
+                <item
+                    android:title="@string/navi_advertise"
+                    android:icon="@drawable/ic_baseline_announcement_24"
+                    android:id="@+id/navi_advertise_with_us"
+                    >
+
+                </item>
+                <item
+                    android:id="@+id/navi_rate_app"
+                    android:title="@string/navi_rate_app"
+                    android:icon="@drawable/navi_rate"
+                    >
+                </item>
+                <item
+                    android:title="@string/navi_update_app"
+                    android:icon="@drawable/ic_baseline_system_update_24"
+                    android:id="@+id/navi_update_app"
+                    >
+                </item>
+                <item
+                    android:id="@+id/navi_about_app"
+                    android:icon="@drawable/navi_about_app_icon"
+                    android:title="@string/navi_about_app"
+                    >
+
+                </item>
+            </menu>
+        </item>
+    </group>
+</menu>

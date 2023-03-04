@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="toolbar_theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="navi_text" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+
+    </style>
+    <style name="navi_alignment" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:padding">10dp</item>
+<!--        <item naem="android:gravity">center</item>-->
+    </style>
+    <style name="report_issue" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_margin">8dp</item>
+
+
+    </style>
+    <style name="login_page" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_margin">20dp</item>
+        <item name="theme">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+    </style>
+
+</resources>

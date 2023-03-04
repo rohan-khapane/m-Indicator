@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/advertise_img1_foreground.xml" value="0.1155" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/advertise_img_foreground.xml" value="0.1155" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/app_features.xml" value="0.123" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/custom_btn_report.xml" value="0.1155" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/ic_baseline_system_update_24.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.169" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1155" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/drawable/navi_rate_app_icon.xml" value="0.1155" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout-land/activity_report_an_issue.xml" value="0.13139329805996472" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_alert_page.xml" value="0.16822916666666668" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_app_features.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_autorickshaw.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_centeral_railways.xml" value="0.15520833333333334" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_chat_section.xml" value="0.11666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_group_chat.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_home_content.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_local_train.xml" value="0.13333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_login_page.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_main.xml" value="0.17298578199052134" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_map.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_metro.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_mono.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_news_page.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_penalties_home.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_report_an_issue.xml" value="0.14666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_report_issue.xml" value="0.13333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_signup_page.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_splash_screen.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_suggest_feature.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_taxi.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/activity_western_railways.xml" value="0.14114583333333333" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/app_bar_home.xml" value="0.15520833333333334" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/auto_grid_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/chat_message.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/footer_layout_navigation_panel.xml" value="0.15416666666666667" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/fragment_a_to__b_local.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/fragment_fare_local_train.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/fragment_report_an_issue.xml" value="0.11885964912280701" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/fragment_station_local_train.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/header_layout_navigation_panel.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/home_content.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/news_layout_card_view.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/report_an_issue.xml" value="0.1307017543859649" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/layout/single_frame_gridvw_home.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/menu/menu_naivagation_pnl.xml" value="0.15520833333333334" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/menu/opt_menu.xml" value="0.18229166666666666" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/mipmap-anydpi-v26/advertise_img.xml" value="0.123" />
+        <entry key="..\:/AndroidStudioProjects/mIndicator/app/src/main/res/mipmap-anydpi-v26/advertise_img_round.xml" value="0.123" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
